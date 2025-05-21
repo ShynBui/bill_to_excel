@@ -21,7 +21,7 @@ Dự án này giúp bạn:
 
 2. 🖼️ Tải lên ảnh hóa đơn (định dạng JPG, PNG,...)
 
-3. 🔑 Nhập Gemini API Key (lấy tại [https://makersuite.google.com/app](https://aistudio.google.com/apikey))
+3. 🔑 Nhập Gemini API Key (lấy tại [API KEY](https://aistudio.google.com/apikey))
 
 4. 📥 Nhận file Excel và bảng dữ liệu trực tiếp
 
@@ -70,6 +70,6 @@ Dự án sử dụng giấy phép **MIT** – bạn có thể sử dụng, chỉ
 
 ## ⭐ Tác giả
 
-- 👨‍💻 Dự án bởi [https://github.com/ShynBui](https://github.com/ShynBui)
+- 👨‍💻 Dự án bởi [ShynBui](https://github.com/ShynBui)
 
 Nếu bạn thấy hữu ích, đừng quên ⭐ star repo nhé!
