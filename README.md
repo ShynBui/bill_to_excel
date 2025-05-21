@@ -4,7 +4,7 @@
 
 ---
 
-## 📽️ Video hướng dẫn đầy đủ: [Biến Hóa Đơn Thành Excel Chỉ Với 1 Tấm Ảnh – Miễn Phí 100%, Không Cần Gõ Tay!](https://youtu.be/r88d9YR49Us](https://youtu.be/R_24LY2RRhs))
+## 📽️ Video hướng dẫn đầy đủ: [Biến Hóa Đơn Thành Excel Chỉ Với 1 Tấm Ảnh – Miễn Phí 100%, Không Cần Gõ Tay!](https://youtu.be/R_24LY2RRhs)
 
 ## 📌 Giới thiệu
 
