@@ -1,77 +1,74 @@
-# 🧾 ẢNH ➝ EXCEL | Chuyển Hóa Đơn Ảnh Thành File Excel Dùng Gemini AI
+# 🧾 IMAGE ➝ EXCEL | Convert Receipt Images to Excel Files Using Gemini AI
 
-**🔥 Chỉ cần 1 ảnh hóa đơn + API Key Gemini → có ngay file Excel sạch đẹp trong 10 giây!**
-
----
-
-## 📽️ Video hướng dẫn đầy đủ: [Biến Hóa Đơn Thành Excel Chỉ Với 1 Tấm Ảnh – Miễn Phí 100%, Không Cần Gõ Tay!](https://youtu.be/R_24LY2RRhs)
-
-## 📌 Giới thiệu
-
-Dự án này giúp bạn:
-- Trích xuất dữ liệu từ **ảnh hóa đơn**: tên sản phẩm, đơn giá, số lượng
-- Tạo **file Excel (.xlsx)** tương ứng
-- Sử dụng sức mạnh của **Gemini 2.0 Flash AI** + LangChain để xử lý hình ảnh
-
-🟢 **Không cần cài phần mềm**, chỉ cần mở file Colab, upload ảnh, nhập API Key và nhấn chạy!
+**🔥 Just 1 receipt image + Gemini API Key → get a clean Excel file in 10 seconds!**
 
 ---
 
-## 🚀 Hướng dẫn sử dụng
+## 📽️ Full Tutorial Video: [Turn Receipt Images into Excel in Seconds – 100% Free, No Manual Typing!](https://youtu.be/R_24LY2RRhs)
 
-1. 👉 Mở file Colab
+## 📌 Introduction
 
-2. 🖼️ Tải lên ảnh hóa đơn (định dạng JPG, PNG,...)
+This project helps you:
+- Extract data from **receipt images**: product name, unit price, quantity  
+- Generate a corresponding **Excel (.xlsx)** file  
+- Leverage the power of **Gemini 2.0 Flash AI** + LangChain to process images
 
-3. 🔑 Nhập Gemini API Key (lấy tại [API KEY](https://aistudio.google.com/apikey))
-
-4. 📥 Nhận file Excel và bảng dữ liệu trực tiếp
-
----
-
-## 🛠 Công nghệ sử dụng
-
-- [LangChain](https://www.langchain.com/)
-- [Google Gemini 2.0 Flash](https://ai.google.dev/)
-- [Gradio UI](https://www.gradio.app/)
-- Python, Pandas, Pydantic, Base64,...
+🟢 **No software installation needed** – just open the Colab notebook, upload your image, enter your API key, and run it!
 
 ---
 
-## 📸 Demo kết quả
+## 🚀 How to Use
 
-| Tên sản phẩm       | Đơn giá | Số lượng |
-|--------------------|---------|----------|
-| Nước Lavie          | 5000    | 2        |
-| Snack Oishi         | 8000    | 1        |
-| Bánh mì thịt nướng | 25000   | 1        |
-
----
-
-## ✅ Yêu cầu
-
-- Python 3.9+ (Google Colab đã sẵn sàng)
-- Gemini API Key (lấy tại: https://makersuite.google.com/app)
+1. 👉 Open the Colab notebook  
+2. 🖼️ Upload your receipt image (JPG, PNG, etc.)  
+3. 🔑 Enter your Gemini API Key (get it at [API KEY](https://aistudio.google.com/apikey))  
+4. 📥 Receive your Excel file and structured data instantly  
 
 ---
 
-## 💡 Gợi ý nâng cao (nếu bạn muốn phát triển thêm)
+## 🛠 Technologies Used
 
-- OCR tiếng Việt bằng Tesseract kết hợp Gemini
-- Tự động phát hiện đơn vị tính
-- Xử lý ảnh mờ, nghiêng
-- Deploy Gradio UI lên Hugging Face Spaces
+- [LangChain](https://www.langchain.com/)  
+- [Google Gemini 2.0 Flash](https://ai.google.dev/)  
+- [Gradio UI](https://www.gradio.app/)  
+- Python, Pandas, Pydantic, Base64, ...
+
+---
+
+## 📸 Sample Output
+
+| Product Name          | Unit Price | Quantity |
+|-----------------------|------------|----------|
+| Lavie Water           | 5000       | 2        |
+| Oishi Snack           | 8000       | 1        |
+| Grilled Pork Baguette | 25000      | 1        |
+
+---
+
+## ✅ Requirements
+
+- Python 3.9+ (Google Colab is ready to use)  
+- Gemini API Key (get it at: https://makersuite.google.com/app)  
+
+---
+
+## 💡 Advanced Ideas (for further development)
+
+- Vietnamese OCR with Tesseract + Gemini  
+- Auto-detect units of measurement  
+- Handle blurry or skewed images  
+- Deploy Gradio UI on Hugging Face Spaces  
 
 ---
 
 ## 📄 License
 
-Dự án sử dụng giấy phép **MIT** – bạn có thể sử dụng, chỉnh sửa hoặc tích hợp vào dự án riêng.
+This project is licensed under the **MIT License** – feel free to use, modify, or integrate it into your own projects.
 
 ---
 
-## ⭐ Tác giả
+## ⭐ Author
 
-- 👨‍💻 Dự án bởi [ShynBui](https://github.com/ShynBui)
+- 👨‍💻 Project by [ShynBui](https://github.com/ShynBui)
 
-Nếu bạn thấy hữu ích, đừng quên ⭐ star repo nhé!
+If you find this helpful, don’t forget to ⭐ star the repo!
